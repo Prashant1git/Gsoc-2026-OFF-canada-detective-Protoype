@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "OFF Detective: Missing UPC",
+  "version": "1.0",
+  "description": "Extracts hidden JSON-LD product data from grocery sites.",
+  "host_permissions": [
+    "https://ca.openfoodfacts.org/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.walmart.ca/*", 
+        "*://*.metro.ca/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
