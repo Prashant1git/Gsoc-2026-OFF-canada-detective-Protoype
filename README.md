@@ -1,6 +1,6 @@
 # 🕵️‍♂️ OFF Canada Detective Engine (Prototype)
 
-## 📺 Demo Video ( click on image to watch video on youtube )
+## 📺 Demo Video 
 
 https://github.com/user-attachments/assets/f7144e81-c20f-491b-939f-ea38783d3c41
 
