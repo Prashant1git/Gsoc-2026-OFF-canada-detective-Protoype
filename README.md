@@ -1,7 +1,7 @@
 # 🕵️‍♂️ OFF Canada Detective Engine (Prototype)
 
 ## 📺 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/R3Lp-F9927U/maxresdefault.jpg)](https://www.youtube.com/watch?v=R3Lp-F9927U)
+[![Watch the Demo](https://img.youtube.com/vi/R3Lp-F9927U/maxresdefault.jpg)](https://youtu.be/KGmOiUdv-BA)
 *Click the image above to watch the prototype in action.*
 
 A lightweight, zero-bloat Chrome extension prototype built for the **Open Food Facts Canada - GSoC 2026** proposal. 
